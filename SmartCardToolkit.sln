@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCardToolkit", "SmartCardToolkit\SmartCardToolkit.csproj", "{91950B31-8FF7-41CE-9593-6B60718D88C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCardInfrastructure", "SCardInfrastructure\SCardInfrastructure.csproj", "{9F692696-91DF-485F-B1DD-2BB4BD3DEE61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91950B31-8FF7-41CE-9593-6B60718D88C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91950B31-8FF7-41CE-9593-6B60718D88C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91950B31-8FF7-41CE-9593-6B60718D88C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91950B31-8FF7-41CE-9593-6B60718D88C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F692696-91DF-485F-B1DD-2BB4BD3DEE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F692696-91DF-485F-B1DD-2BB4BD3DEE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F692696-91DF-485F-B1DD-2BB4BD3DEE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F692696-91DF-485F-B1DD-2BB4BD3DEE61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9EC03C1-79FA-4374-81A0-88103C27F7E0}
+	EndGlobalSection
+EndGlobal
